@@ -16,7 +16,7 @@ This project is a web application that allows users to compare cricket players b
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone  https://github.com/priyanshuchawda/cricket-comparison-tool.git
    cd cricket-comparison-tool
    ```
 
